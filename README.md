@@ -1,3 +1,3 @@
-# Combining Multi-Dimensional Information to Enhance Robustness of Models for Remote Sensing Urban Scene Image Semantic Segmentation
+# Frequency-Aware Robust Multidimensional Information Fusion Framework for Remote Sensing Image Segmentation
 
 The codes will be uploaded later.
